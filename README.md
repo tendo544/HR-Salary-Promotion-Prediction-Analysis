@@ -25,7 +25,7 @@ Built a scatter plot with a linear forecast to analyze predicted salary after sa
  # Results
  Predicted salary increases show a consistent upward trend,with  each prediction inreasing by 15.92 units, demonstrating the direct impact of salry hikes on employee earnings.
  <img width="508" height="225" alt="predicted salary after salary hike %" src="https://github.com/user-attachments/assets/a3a5757d-2d4c-434a-9701-283efb9c868c" />
- [HR Employee- Salary Prediction Analysis.xlsx](https://github.com/user-attachments/files/26450366/HR.Employee-.Salary.Prediction.Analysis.xlsx)
+ 
 
 Employees with a high number of years since last promotion show a higher likelihood of promotion,identifying a backlog in career progression.
 <img width="417" height="305" alt="promotion likelihood vs years since last promotion" src="https://github.com/user-attachments/assets/7a814dc4-3007-4972-9c46-0e9a156bee84" />
