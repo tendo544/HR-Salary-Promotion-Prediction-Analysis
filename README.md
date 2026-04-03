@@ -46,4 +46,10 @@ Review promotion policies,especially for employees with long stagnation periods,
  # Next Steps
  Incorporate additional variables such as tenure,job role, and educational level to improve prediction accuracy
  Develop a more advanced predictive model for salary and promotion using statistical tools
+ Markdown
+ ## Dataset
+ The dataset used for this analysis can be found here:
+ [Download Excel File]
+ (HR Employee- Salary Prediction Analysis.xlsx)
+ 
  
